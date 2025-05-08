@@ -5,7 +5,8 @@ cd my_project
 
 # Initialize a new Git repository
 # Add your code below
-
+git init clemaster0009/my_project
+git README.md
 
 
 # Do not modify the testing mechanism
