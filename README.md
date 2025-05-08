@@ -7,7 +7,7 @@ cd my_project
 # Add your code below
 git init clemaster0009/my_project
 git README.md
-
+git add
 
 # Do not modify the testing mechanism
 if [ -d .git ]; then echo 'Repository initialized'; else echo 'Initialization failed'; fi
