@@ -1,1 +1,15 @@
 index.html
+
+!
+# About Me
+# Welcome to my web page
+<p>I wrote this with HTML</p>
+<a>https://code-you.org/ I'm a student at Code: You.
+
+<ul>
+  <li>I have a BSW</li>
+  <li>I like to knit</li>
+  <li>I like to crochet</li>
+</ul>
+
+<img>https://code-you.org/wp-content/uploads/2023/07/codeyou-logo-wink.gif
